@@ -1,3 +1,24 @@
+## Eugene CSS Library
+### Clone File
+```
+git clone https://github.com/D0561910/Eugene-SCSS-Standard-Lib.git
+```
+
+### Go to directory
+```
+cd Eugene-SCSS-Standard-Lib
+```
+
+### Install node package
+```
+npm install
+```
+
+### Run gulp command to complie SCSS file
+```
+gulp
+```
+
 ## This is SCSS Project 
 ### I build own css library using scss.
 
